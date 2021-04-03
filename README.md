@@ -1,5 +1,5 @@
 ### 👋 Hi there, I’m Ayushi
-### I'm a Full Stack Developer and I love to code!
+### I'm a Front End Developer and I love to code!
 #### I'm an Application Development Associate at Accenture India.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React, Javascript, Nodejs and Firebase.
